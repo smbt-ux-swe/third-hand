@@ -1,5 +1,9 @@
-# Inspiration
-Second is not enough, giving third chances to your items.
+
+
+## Inspiration
+"Second is not enough; give your items a third chance."
+
+As the cost of living continues to rise, many valuable items are discarded despite still being useful. At Third Hand, we aim to support the community by promoting the reuse of these items, ensuring that nothing goes to waste. Our platform connects people, allowing them to buy and sell gently used goods within their community, fostering sustainability and helping everyone save money.
 
 
 ## Getting Started
